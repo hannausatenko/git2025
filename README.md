@@ -1,2 +1,2 @@
 # git2025
-for comp schoo;
+for comp school
